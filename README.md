@@ -37,3 +37,4 @@ C++ version: 0.00019118 seconds<br/>
 ## Reference
 - Z-score https://en.wikipedia.org/wiki/Standard_score<br/>
 - RMSE http://en.wikipedia.org/wiki/Root_mean_square_deviation<br/>
+- CSV parser https://github.com/d99kris/rapidcsv
