@@ -34,6 +34,6 @@ Running each program 5 times<br/>
 Python version: 0.4571527481079102 seconds<br/>
 C++ version: 0.00019118 seconds<br/>
 
-## Contributor
+## Reference
 - Z-score https://en.wikipedia.org/wiki/Standard_score<br/>
 - RMSE http://en.wikipedia.org/wiki/Root_mean_square_deviation<br/>
