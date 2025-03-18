@@ -4,7 +4,6 @@
 
 The project implement ***Multiple Linear Regression*** from scratch<br/>
 And the project is using Python Language<br/>
-Course assignment for Predictive Modeling at [University of North Dakota](https://und.edu/)<br/>
 
 ## Features
 - Calculating MSE and RMSE (hyperparameter) in each iteration and saving it to log file<br/>
