@@ -29,7 +29,7 @@ if __name__ == "__main__":
     iteration = args.iteration
     learning_rate = args.learn_rate
 
-    df = pandas.read_excel('./myDataMLR.xlsx')
+    df = pandas.read_excel('./data/myDataMLR.xlsx')
 
     numFeatures = df.shape[1]
 
