@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 	const int FEATURES = 2;
 
 	if ( argc != 3 ) {
-		std::printf("Usage: %s 1000 0.01\n", agv[0]);
+		std::printf("Usage: %s 1000 0.01\n", argv[0]);
 		return 0;
 	}
 
