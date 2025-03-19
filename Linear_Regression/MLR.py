@@ -1,7 +1,3 @@
-'''
-Sicheng Zhong
-'''
-
 import numpy
 import json
 import os
