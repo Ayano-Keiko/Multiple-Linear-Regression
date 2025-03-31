@@ -6,7 +6,7 @@ The project implement ***Multiple Linear Regression*** from scratch<br/>
 And the project is using Python Language<br/>
 
 ## Features
-- Calculating MSE and RMSE (hyperparameter) in each iteration and saving it to log file<br/>
+- Calculating MSE and RMSE in each iteration and saving it to log file<br/>
 - Calculating parameter and saving it to json file<br/>
 - Fuction to draw MSE and RMSE figure (only 2 features)<br/>
 - Predicting value<br/>
