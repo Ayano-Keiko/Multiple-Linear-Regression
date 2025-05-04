@@ -25,7 +25,7 @@ python ./main.py -i 1000 --learn_rate 0.01
 ```
 
 ## Dataset
-https://ndusbpos-my.sharepoint.com/:x:/g/personal/fatima_eljamiy_ndus_edu/ETSw8FH8wuZJtHhByXc28_wBqw_wou02S3xyLRRd6zvPfw?e=kfMkQ6<br/>
+The dataset has 2 features and one target.<br>
 
 ## Running Time
 Running on Python 3.12.1 and MSVC (C++ 14) Release with Windows 11 system(Memory 16GB)<br/>
