@@ -28,10 +28,8 @@ python ./main.py -i 1000 --learn_rate 0.01
 The dataset has 2 features and one target.<br>
 
 ## Running Time
-Running on Python 3.12.1 and MSVC (C++ 14) Release with Windows 11 system(Memory 16GB)<br/>
-Running each program 5 times<br/>
-Python version: 0.4571527481079102 seconds<br/>
-C++ version: 0.00019118 seconds<br/>
+Running on Python 3.12.1 Windows 11 system(Memory 16GB)<br/>
+Running each program 5 times 0.4571527481079102 seconds<br/>
 
 ## Reference
 - Z-score https://en.wikipedia.org/wiki/Standard_score<br/>
